@@ -7,6 +7,7 @@ A ticket booking system with a GUI.It has Separate login system for admin and cl
 1. Download all the folders
 1. First Run `Server.java`
 2. then `Entry.java`
+3. SQL Files `Bus_Booking_System/src/sql/`
 
 # Features
 * Back End support
